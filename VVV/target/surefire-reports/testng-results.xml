@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32" started-at="2018-08-07T14:30:35Z" finished-at="2018-08-07T14:30:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32" started-at="2018-08-07T14:30:35Z" finished-at="2018-08-07T14:30:35Z">
+      <class name="tests.TestSuite3">
+        <test-method status="PASS" signature="f1()[pri:0, instance:tests.TestSuite3@5056dfcb]" name="f1" duration-ms="0" started-at="2018-08-07T20:00:35Z" finished-at="2018-08-07T20:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="f2()[pri:0, instance:tests.TestSuite3@5056dfcb]" name="f2" duration-ms="0" started-at="2018-08-07T20:00:35Z" finished-at="2018-08-07T20:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method status="PASS" signature="f3()[pri:0, instance:tests.TestSuite3@5056dfcb]" name="f3" duration-ms="0" started-at="2018-08-07T20:00:35Z" finished-at="2018-08-07T20:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f3 -->
+      </class> <!-- tests.TestSuite3 -->
+      <class name="tests.TestSuite1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.TestSuite1@6276ae34]" name="beforeTest" is-config="true" duration-ms="15" started-at="2018-08-07T20:00:35Z" finished-at="2018-08-07T20:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:tests.TestSuite1@6276ae34]" name="f" duration-ms="1" started-at="2018-08-07T20:00:35Z" finished-at="2018-08-07T20:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.TestSuite1@6276ae34]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-08-07T20:00:35Z" finished-at="2018-08-07T20:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.TestSuite1 -->
+      <class name="tests.TestSuite2">
+        <test-method status="PASS" signature="f()[pri:0, instance:tests.TestSuite2@61dc03ce]" name="f" duration-ms="0" started-at="2018-08-07T20:00:35Z" finished-at="2018-08-07T20:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- tests.TestSuite2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
