@@ -35,7 +35,18 @@ public class TestSuite1 {
 		browser = prop.getProperty("browser");
 
 		switch (browser) {
-		case "chrome":
+	dfahjdh
+h
+dhj
+dtf
+h
+dtgh
+rtgf
+h
+tfg
+htf
+gh
+	case "chrome":
 			System.setProperty("webdriver.chrome.driver",
 					ConstantsUtils.CHROME_PATH);
 			driver = new ChromeDriver();
